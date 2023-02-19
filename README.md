@@ -7,5 +7,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFSP&layout=compact&theme=vue-dark" />
 </div>
 
-![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,vue,react&perline=6)
+![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,vue,react,nodejs&perline=6)
 
